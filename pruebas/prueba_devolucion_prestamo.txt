@@ -1,0 +1,62 @@
+PRUEBA: Devolución de préstamo de herramienta
+
+Descripción:
+Comprobar que el sistema permite registrar correctamente la devolución de una herramienta prestada,
+actualizar el estado del préstamo y restaurar el stock de la herramienta.
+
+Entrada:
+Seleccionar la opción de devolución de préstamo en el menú de gestion de préstamo del administrador 
+e ingresar el sigueinte dato: :
+
+ID del préstamo: 1
+
+Salida esperada:
+El sistema muestra la información del préstamo seleccionado.
+
+Entrada: 
+Se compara la fecha de el día de devolucion con la fecha de vencimiento. 
+
+
+Escenario 1: 
+Fecha de devolucion es menor a la fecha de vencimiento.
+
+Salida esperada:
+Usuario puntual.No se le aplicará multa.
+
+
+Escenario 2: 
+Fecha de devolucion es mayor a la fecha de vencimiento.
+
+Salida esperada:
+Usuario impuntual. Tiene una multa de $10.00.
+
+
+Entrada: 
+Posteriormente responder a la pregunta: ¿La herramienta es devuelta con daños graves o fue perdida?
+
+
+Escenario 1: 
+SI, HAY DAÑOS O PERDIDA 
+
+Salida esperada: 
+El precio a pagar por daños/pérdida de la herramienta ## es de $##
+
+
+
+Escenario 2:
+NO, NO HAY DAÑOS NI PERDIDA
+
+Salida esperada: 
+No tiene recargos adicionales por pérdida o daño
+
+
+
+
+Salida final esperada: 
+EL USUARIO ## HA REALIZADO LA CORRECTA DEVOLUCION DE LA HERRAMIENTA 
+
+
+
+Resultado obtenido:
+El sistema registró la devolución correctamente, cambió el estado del préstamo a "Inactivo",
+ actualizó el stock de la herramienta correspondiente y registró el evento en el archivo logs.json.

@@ -1,0 +1,53 @@
+[
+    {
+        "descripcion": "Se intent\u00f3 fallidamente entrar al sistema de administrador",
+        "hora": "2026-03-20 19:54:47"
+    },
+    {
+        "descripcion": "Se intent\u00f3 prestar m\u00e1s herramientas que las disponibles",
+        "hora": "2026-03-20 20:02:33"
+    },
+    {
+        "descripcion": "Se intent\u00f3 prestar m\u00e1s herramientas deERROR que las disponibles",
+        "hora": "2026-03-20 20:05:49"
+    },
+    {
+        "descripcion": "Se intent\u00f3 prestar m\u00e1s herramientas dePodadora manual(tijeras de jard\u00edn) que las disponibles",
+        "hora": "2026-03-20 20:07:45"
+    },
+    {
+        "descripcion": "Se intent\u00f3 fallidamente entrar al sistema de administrador",
+        "hora": "2026-03-20 20:12:08",
+        "usuario": "valentina"
+    },
+    {
+        "descripcion": "Se intent\u00f3 fallidamente entrar al sistema de administrador",
+        "hora": "2026-03-20 20:29:20",
+        "usuario": "valentina_1240"
+    },
+    {
+        "descripcion": "Se intent\u00f3 prestar m\u00e1s herramientas dePala que las disponibles",
+        "hora": "2026-03-20 20:30:05",
+        "usuario": "valentina_1240"
+    },
+    {
+        "descripcion": "Se intent\u00f3 fallidamente entrar al sistema de administrador",
+        "hora": "2026-03-20 20:54:37",
+        "usuario": "gabriel123"
+    },
+    {
+        "descripcion": "Se intent\u00f3 prestar m\u00e1s herramientas deExtensi\u00f3n el\u00e9ctrica que las disponibles",
+        "hora": "2026-03-20 20:55:56",
+        "usuario": "gabriel123"
+    },
+    {
+        "descripcion": "Se intent\u00f3 prestar m\u00e1s herramientas de Llave inglesa  que las disponibles",
+        "hora": "2026-03-20 21:01:40",
+        "usuario": "valentina123"
+    },
+    {
+        "descripcion": "Se intent\u00f3 prestar m\u00e1s herramientas de Mezcladora de cemento que las disponibles",
+        "hora": "2026-03-20 21:20:26",
+        "usuario": "david_profe"
+    }
+]

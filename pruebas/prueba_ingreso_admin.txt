@@ -1,0 +1,37 @@
+PRUEBA: Acceso al menú de administrador
+
+Descripción:
+Verificar que solo los usuarios con la contraseña correcta puedan acceder al menú de administrador.
+
+
+
+Entrada:
+
+1. Elegir la opción 1 del menú principal.
+2. Ingresar la contraseña de administrador.
+
+
+
+Escenario 1: Contraseña correcta
+
+Salida esperada:
+
+El sistema muestra el mensaje: "Contraseña correcta".
+El usuario accede al menú de administrador.
+
+Resultado obtenido:
+El sistema permitió el acceso al menú de administrador y se pudieron realizar operaciones administrativas.
+
+
+
+Escenario 2: Contraseña incorrecta
+
+Salida esperada:
+
+El sistema muestra el mensaje: "Contraseña incorrecta".
+No se permite el acceso al menú de administrador.
+
+Resultado obtenido:
+El sistema bloqueó el acceso y regresó al menú principal.
+
+

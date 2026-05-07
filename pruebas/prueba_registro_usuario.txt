@@ -1,0 +1,21 @@
+PRUEBA: Registro de usuario
+
+Descripción:
+Verificar que el sistema permita registrar correctamente un nuevo usuario y guardar la información en el archivo de persistencia.
+
+Entrada:
+Seleccionar la opción número 1 del menú de usuarios y a continuacion rellenar los datos que se solicitan: 
+
+id: 1
+nombre: Valentina
+apellidos:Rincon Mayorga
+telefono:63657840
+direccion: 12 
+tipo: residente
+
+Salida esperada:
+USUARIO Valentina INGRESADO CORRECTAMENTE
+
+
+Resultado:
+El usuario fue guardado correctamente en el archivo usuarios.json.

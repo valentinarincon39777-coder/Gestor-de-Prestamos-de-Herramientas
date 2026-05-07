@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "nombre": "Extensi\u00f3n el\u00e9ctrica",
+        "categoria": "Herramientas el\u00e9ctricas",
+        "cantidad": 1,
+        "estado": "Activa",
+        "valor": 6
+    },
+    {
+        "id": 2,
+        "nombre": "Podadora manual(tijeras de jard\u00edn)",
+        "categoria": "Herramientas de jardiner\u00eda",
+        "cantidad": 5,
+        "estado": "Activa",
+        "valor": 4
+    },
+    {
+        "id": 3,
+        "nombre": "Manguera",
+        "categoria": "Herramientas de jardiner\u00eda",
+        "cantidad": 3,
+        "estado": "Activa",
+        "valor": 10
+    },
+    {
+        "id": 4,
+        "nombre": "Escalera",
+        "categoria": "Herramientas grande",
+        "cantidad": 3,
+        "estado": "Activa",
+        "valor": 20
+    },
+    {
+        "id": 5,
+        "nombre": "Mezcladora de cemento",
+        "categoria": "Herramientas grande",
+        "cantidad": 0,
+        "estado": "Activa",
+        "valor": 50
+    },
+    {
+        "id": 6,
+        "nombre": "Linterna potente",
+        "categoria": "Herramientas b\u00e1sicas",
+        "cantidad": 4,
+        "estado": "Activa",
+        "valor": 25
+    },
+    {
+        "id": 7,
+        "nombre": "Soldador electrico (esta\u00f1o)",
+        "categoria": "Herramientas el\u00e9ctricas",
+        "cantidad": 2,
+        "estado": "Activa",
+        "valor": 20
+    },
+    {
+        "id": 8,
+        "nombre": "Taladro el\u00e9ctrico",
+        "categoria": "Herramientas el\u00e9ctricas",
+        "cantidad": 2,
+        "estado": "Activa",
+        "valor": 95
+    },
+    {
+        "id": 9,
+        "nombre": "Hidrolavadora",
+        "categoria": "Herramientas grande",
+        "cantidad": 2,
+        "estado": "Activa",
+        "valor": 250
+    },
+    {
+        "id": 10,
+        "nombre": "Pala",
+        "categoria": "Herramientas de jardiner\u00eda",
+        "cantidad": 7,
+        "estado": "Activa",
+        "valor": 8
+    },
+    {
+        "id": 11,
+        "nombre": "Compresor de aire",
+        "categoria": "Herramientas grande",
+        "cantidad": 0,
+        "estado": "Activa",
+        "valor": 230
+    },
+    {
+        "id": 12,
+        "nombre": "Llave inglesa ",
+        "categoria": "Herramientas b\u00e1sicas",
+        "cantidad": 5,
+        "estado": "Activa",
+        "valor": 7
+    },
+    {
+        "id": 13,
+        "nombre": "Mult\u00edmetro",
+        "categoria": "Herramientas de medici\u00f3n",
+        "cantidad": 4,
+        "estado": "Activa",
+        "valor": 20
+    },
+    {
+        "id": 14,
+        "nombre": "Probador de voltaje",
+        "categoria": "Herramientas de medici\u00f3n",
+        "cantidad": 1,
+        "estado": "Activa",
+        "valor": 8
+    },
+    {
+        "id": 15,
+        "nombre": "Destornillador el\u00e9ctrico",
+        "categoria": "Herramientas el\u00e9ctricas",
+        "cantidad": 2,
+        "estado": "Activa",
+        "valor": 25
+    },
+    {
+        "id": 16,
+        "nombre": "Term\u00f3metro digital",
+        "categoria": "Herramientas de medici\u00f3n",
+        "cantidad": 0,
+        "estado": "Activa",
+        "valor": 10
+    },
+    {
+        "id": 17,
+        "nombre": "Serrucho",
+        "categoria": "Otros",
+        "cantidad": 2,
+        "estado": "En reparaci\u00f3n",
+        "valor": 10
+    }
+]

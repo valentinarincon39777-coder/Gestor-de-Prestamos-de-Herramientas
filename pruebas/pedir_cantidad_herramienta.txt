@@ -1,0 +1,35 @@
+
+PRUEBA: pedir cantidad de herramienta para un préstamo
+
+Descripción: 
+Comprobar que el sistema no permita que se presten más herramientas de las que hay disponibles, y que, luego de 
+prestar cierta cantidad de herramientas, se ajuste el stock interno de cuantas herramientas hay. 
+
+Entrada: 
+Ingrese el ID de la herramienta que se prestará: ##
+Ingrese la cantidad que desea de la herramienta considerando su disponibilidad: ##
+
+
+
+Escenario 1: 
+La cantidad dolicitada es mayor que la cantidad en el stock actual de dicha herramienta.
+
+Salida esperada: 
+No hay suficiente de la herramienta
+Ingrese la cantidad que desea de la herramienta considerando su disponibilidad: 
+
+Escenario 2: 
+La cantidad dolicitada es menor o igual que la cantidad en el stock actual de dicha herramienta.
+
+salida:esperada:
+No se imprime texto en la pantalla, se continúa pidiendo los otros datos para la realizacion del préstamo.
+
+
+Resultado obtenido: 
+Solo permite que se realicen prestamos de X herramientas según la disponibilidad de cantidad de esa herramienta enel stock
+y una vez se solicita dicha cantidad, se ajusta el stock, restandole la cantidad pedida por el usuario.
+
+
+
+
+

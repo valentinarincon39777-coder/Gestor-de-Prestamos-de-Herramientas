@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+        "nombre": "Gabriel",
+        "apellido": "M\u00e1rquez ",
+        "telefono": 63657840,
+        "direccion": 12,
+        "tipo": "Administrados",
+        "nombre_usuario": "gabriel123"
+    },
+    {
+        "id": 2,
+        "nombre": "Juvenal",
+        "apellido": "Urbino",
+        "telefono": 18650642,
+        "direccion": 40,
+        "tipo": "Residente"
+    },
+    {
+        "id": 3,
+        "nombre": "Florentino",
+        "apellido": "Ariza",
+        "telefono": 19025674,
+        "direccion": 15,
+        "tipo": "Residente"
+    },
+    {
+        "id": 4,
+        "nombre": "Fermina",
+        "apellido": "Daza",
+        "telefono": 19056734,
+        "direccion": 10,
+        "tipo": "Residente"
+    },
+    {
+        "id": 5,
+        "nombre": "Tr\u00e1nsito Ariza",
+        "apellido": "Ariza",
+        "telefono": 18934675,
+        "direccion": 33,
+        "tipo": "Residente",
+        "nombre_usuario": "transito_50"
+    },
+    {
+        "id": 6,
+        "nombre": "Olimpia",
+        "apellido": "Zuleta",
+        "telefono": 89504783,
+        "direccion": 25,
+        "tipo": "Residente"
+    },
+    {
+        "id": 7,
+        "nombre": "Hildebranda",
+        "apellido": "S\u00e1nchez",
+        "telefono": 12345678,
+        "direccion": 37,
+        "tipo": "Residente"
+    },
+    {
+        "id": 8,
+        "nombre": "Lorenzo",
+        "apellido": "Daza",
+        "telefono": 16784903,
+        "direccion": 2,
+        "tipo": "Residente"
+    },
+    {
+        "id": 9,
+        "nombre": "Jeremiah ",
+        "apellido": "de Saint-Amour ",
+        "telefono": 18903478,
+        "direccion": 7,
+        "tipo": "Residente"
+    },
+    {
+        "id": 10,
+        "nombre": "Sara",
+        "apellido": "Noriega ",
+        "telefono": 12905784,
+        "direccion": 23,
+        "tipo": "Residente",
+        "nombre_usuario": "sarita_la_mas_bonita"
+    },
+    {
+        "id": 11,
+        "nombre": "Valentina",
+        "apellido": "Rincon Mayorga",
+        "telefono": 63657840,
+        "direccion": 48,
+        "nombre_usuario": "valentina123",
+        "tipo": "Administrador"
+    },
+    {
+        "id": 12,
+        "nombre": "David Domiguez ",
+        "apellido": "Dominguez",
+        "telefono": 67589456,
+        "direccion": 44,
+        "nombre_usuario": "david_profe",
+        "tipo": "Administrador"
+    }
+]

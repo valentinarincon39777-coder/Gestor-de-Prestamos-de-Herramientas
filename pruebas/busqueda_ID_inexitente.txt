@@ -1,0 +1,15 @@
+PRUEBA: Búsqueda con ID inexistente
+
+Descripción:
+Verificar que el sistema maneje correctamente el caso en que se intenta buscar una herramienta, préstamo o usuario
+utilizando un ID que no existe en el registro.
+
+Entrada:
+Ingresar un ID que no se encuentre registrado en el sistema.
+
+Salida esperada:
+EL ID ingresado NO HA SIDO ENCONTRADO
+
+Resultado obtenido:
+El sistema mostró el mensaje correspondiente indicando que el ID no existe 
+y permitió al usuario continuar utilizando el programa sin que este se detuviera o generara errores.
